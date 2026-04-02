@@ -1,4 +1,4 @@
-ame: Automatisation des tests
+name: Automatisation des tests
 on: push
 jobs:
   Compilation:
